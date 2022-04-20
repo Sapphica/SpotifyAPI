@@ -12,7 +12,7 @@ To play songs using the Spotify API in Python
 
 
 ### Applicatoin Environment
-(Tools, Technologies Used to develop automated tests)
+(Tools, Technologies Used to develop Spotify API)
 
 - *IDE:* PyCharm
 - *API Framework:* Spotipy 2.19.0
